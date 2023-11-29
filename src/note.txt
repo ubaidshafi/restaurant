@@ -1,0 +1,56 @@
+
+React is a single page application
+
+
+     API Call in react
+ ------------------------
+
+   ajax -  fetch
+
+   axios- react library   - npm i axios
+
+
+   methods in axios
+ -------------------
+
+
+ post
+ get 
+ put 
+ patch
+ delete
+
+     advantages of async await in react.js
+-------------------------------------------
+
+  *   it simplifies the syntax and makes the code more readable by avoiding 
+      callback nesting and chaining.   
+
+  *  it allows for better error handling by using try/catch blocks
+      to handle exceptions.
+
+    access url router params
+ -----------------------------
+
+      useParams-hook      
+
+
+      destructuring
+   -------------------
+
+   user={name:"anu",age:23,place:"kochi"}   
+
+   var name=user.name
+   var age=user.age
+   var place=user.place
+ 
+     
+  var{ name}=user
+   var {age}=user
+   var {place}=user
+
+   var {name.age.place}=user - easy method
+
+
+
+
